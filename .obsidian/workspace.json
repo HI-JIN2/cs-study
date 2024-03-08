@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "디자인 패턴/1.1 디자인 패턴.md",
+                "file": "안드로이드/Livedata.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "안드로이드/Livedata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "안드로이드/Livedata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "안드로이드/Livedata.md"
               }
             }
           }
@@ -169,20 +171,21 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fc65c355ba71b67b",
+  "active": "86f410a10e1f2deb",
   "lastOpenFiles": [
+    "안드로이드/DataBinding.md",
+    "안드로이드/Flow.md",
+    "안드로이드/Livedata.md",
+    "README.md",
+    "디자인 패턴/1.1 디자인 패턴.md",
+    "무제 파일.md",
     "알고리즘",
     "자료구조",
     "데이터베이스",
     "운영체제",
     "네트워크",
-    "디자인 패턴/1.1 디자인 패턴.md",
-    "무제 파일.md",
-    "안드로이드/Livedata.md",
-    "안드로이드/Flow.md",
     "안드로이드",
     "디자인 패턴",
-    "README.md",
     "무제 파일.canvas",
     "2024-03-08.md"
   ]
