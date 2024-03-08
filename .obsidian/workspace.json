@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ba2f6eb99d7b978d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,7 +181,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "86f410a10e1f2deb",
+  "active": "ba2f6eb99d7b978d",
   "lastOpenFiles": [
     "안드로이드/Livedata.md",
     "안드로이드/Companion Object.md",
