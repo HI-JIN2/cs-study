@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2db7783c68951622",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "디자인 패턴/1.2 프로그래밍 패러다임.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "디자인 패턴/1.1 디자인 패턴.md",
+                "file": "디자인 패턴/1.2 프로그래밍 패러다임.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "디자인 패턴/1.1 디자인 패턴.md",
+                "file": "디자인 패턴/1.2 프로그래밍 패러다임.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "디자인 패턴/1.1 디자인 패턴.md"
+                "file": "디자인 패턴/1.2 프로그래밍 패러다임.md"
               }
             }
           }
@@ -182,15 +194,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ba2f6eb99d7b978d",
+  "active": "2db7783c68951622",
   "lastOpenFiles": [
+    "디자인 패턴/1.1 디자인 패턴.md",
+    "디자인 패턴/1.2 프로그래밍 패러다임.md",
     "README.md",
     "안드로이드/Livedata.md",
     "안드로이드/Companion Object.md",
     "안드로이드/DataBinding.md",
     "안드로이드/Flow.md",
-    "디자인 패턴/1.1 디자인 패턴.md",
-    "무제 파일.md",
     "알고리즘",
     "자료구조",
     "데이터베이스",
