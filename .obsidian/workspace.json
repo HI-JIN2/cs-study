@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "디자인 패턴/1.2 프로그래밍 패러다임.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "디자인 패턴/1.2 프로그래밍 패러다임.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "디자인 패턴/1.2 프로그래밍 패러다임.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "디자인 패턴/1.2 프로그래밍 패러다임.md"
+                "file": "README.md"
               }
             }
           }
@@ -196,9 +196,10 @@
   },
   "active": "2db7783c68951622",
   "lastOpenFiles": [
-    "디자인 패턴/1.1 디자인 패턴.md",
     "디자인 패턴/1.2 프로그래밍 패러다임.md",
     "README.md",
+    "Pasted image 20240312172813.png",
+    "디자인 패턴/1.1 디자인 패턴.md",
     "안드로이드/Livedata.md",
     "안드로이드/Companion Object.md",
     "안드로이드/DataBinding.md",
