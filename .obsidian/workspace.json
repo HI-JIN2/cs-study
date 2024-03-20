@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "990aee27c5fdde8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SpringBoot/1. 스프링부트 시작하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "SpringBoot/1. 스프링부트 시작하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "SpringBoot/1. 스프링부트 시작하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "SpringBoot/1. 스프링부트 시작하기.md"
               }
             }
           }
@@ -194,10 +206,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2db7783c68951622",
+  "active": "990aee27c5fdde8b",
   "lastOpenFiles": [
-    "디자인 패턴/1.2 프로그래밍 패러다임.md",
     "README.md",
+    "SpringBoot/1. 스프링부트 시작하기.md",
+    "SpringBoot",
+    "디자인 패턴/1.2 프로그래밍 패러다임.md",
     "Pasted image 20240312172813.png",
     "디자인 패턴/1.1 디자인 패턴.md",
     "안드로이드/Livedata.md",
