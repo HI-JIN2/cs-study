@@ -130,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "17bd5a38f90b4f47",
@@ -208,6 +209,8 @@
   },
   "active": "990aee27c5fdde8b",
   "lastOpenFiles": [
+    "스크린샷 2024-03-25 오후 5.02.14.png",
+    "스크린샷 2024-03-25 오후 4.51.12.png",
     "README.md",
     "SpringBoot/1. 스프링부트 시작하기.md",
     "SpringBoot",
