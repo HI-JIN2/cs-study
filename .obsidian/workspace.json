@@ -73,14 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot/1. 스프링부트 시작하기.md",
+                "file": "SpringBoot/1-1. 스프링부트 시작하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d798042b3197307c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-2. DI, IoC, Bean, AOP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -147,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot/1. 스프링부트 시작하기.md",
+                "file": "1-2. DI, IoC, Bean, AOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot/1. 스프링부트 시작하기.md",
+                "file": "1-2. DI, IoC, Bean, AOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot/1. 스프링부트 시작하기.md"
+                "file": "1-2. DI, IoC, Bean, AOP.md"
               }
             }
           }
@@ -207,8 +219,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "990aee27c5fdde8b",
+  "active": "d798042b3197307c",
   "lastOpenFiles": [
+    "SpringBoot/1-1. 스프링부트 시작하기.md",
+    "1-2. DI, IoC, Bean, AOP.md",
     "스크린샷 2024-03-25 오후 7.41.39.png",
     "스크린샷 2024-03-25 오후 7.33.59.png",
     "스크린샷 2024-03-25 오후 7.31.07.png",
@@ -219,7 +233,6 @@
     "스크린샷 2024-03-25 오후 5.02.14.png",
     "스크린샷 2024-03-25 오후 4.51.12.png",
     "README.md",
-    "SpringBoot/1. 스프링부트 시작하기.md",
     "SpringBoot",
     "디자인 패턴/1.2 프로그래밍 패러다임.md",
     "Pasted image 20240312172813.png",
