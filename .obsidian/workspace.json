@@ -157,14 +157,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "네트워크/2.1 네트워크의 기초.md",
+                "file": "SpringBoot/1-1. 스프링부트 시작하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4f17940be7c5cef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-1..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -230,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "네트워크/2.1 네트워크의 기초.md",
+                "file": "2-1..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "네트워크/2.1 네트워크의 기초.md",
+                "file": "2-1..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "네트워크/2.1 네트워크의 기초.md"
+                "file": "2-1..md"
               }
             }
           }
@@ -290,13 +302,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "443737630c747ae3",
+  "active": "f4f17940be7c5cef",
   "lastOpenFiles": [
-    "README.md",
-    "네트워크/2.1 네트워크의 기초.md",
-    "스크린샷 2024-03-25 오후 4.51.12.png",
-    "무제 파일.md",
     "SpringBoot/1-1. 스프링부트 시작하기.md",
+    "2-1..md",
+    "네트워크/2.1 네트워크의 기초.md",
+    "README.md",
+    "스크린샷 2024-03-25 오후 4.51.12.png",
     "SpringBoot/1-2. DI, IoC, Bean, AOP.md",
     "SpringBoot/1-3. Question Set.md",
     "네트워크/2.2 TCPIP 4계층 모델.md",
