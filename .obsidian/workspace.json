@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-1..md",
+                "file": "안드로이드/Flow.md",
                 "mode": "source",
                 "source": false
               }
@@ -226,7 +226,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "17bd5a38f90b4f47",
@@ -242,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-1..md",
+                "file": "안드로이드/Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-1..md",
+                "file": "안드로이드/Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-1..md"
+                "file": "안드로이드/Flow.md"
               }
             }
           }
@@ -302,10 +303,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f4f17940be7c5cef",
+  "active": "fc65c355ba71b67b",
   "lastOpenFiles": [
-    "SpringBoot/1-1. 스프링부트 시작하기.md",
+    "안드로이드/Companion Object.md",
+    "안드로이드/무제 파일.md",
+    "안드로이드/Flow.md",
     "2-1..md",
+    "SpringBoot/1-1. 스프링부트 시작하기.md",
     "네트워크/2.1 네트워크의 기초.md",
     "README.md",
     "스크린샷 2024-03-25 오후 4.51.12.png",
@@ -329,9 +333,7 @@
     "SpringBoot",
     "Pasted image 20240312172813.png",
     "안드로이드/Livedata.md",
-    "안드로이드/Companion Object.md",
     "안드로이드/DataBinding.md",
-    "안드로이드/Flow.md",
     "알고리즘",
     "자료구조",
     "데이터베이스",
