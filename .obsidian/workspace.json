@@ -174,9 +174,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "06fa71834c2cb55c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -303,7 +313,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fc65c355ba71b67b",
+  "active": "06fa71834c2cb55c",
   "lastOpenFiles": [
     "안드로이드/Companion Object.md",
     "안드로이드/무제 파일.md",
