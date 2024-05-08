@@ -184,9 +184,21 @@
                 "currentVersion": "1.5.12"
               }
             }
+          },
+          {
+            "id": "805e088c0e18fbcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "정보처리기사/필기 벼락치기 준비.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -236,8 +248,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "17bd5a38f90b4f47",
@@ -253,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "안드로이드/Flow.md",
+                "file": "정보처리기사/필기 벼락치기 준비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "안드로이드/Flow.md",
+                "file": "정보처리기사/필기 벼락치기 준비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "안드로이드/Flow.md"
+                "file": "정보처리기사/필기 벼락치기 준비.md"
               }
             }
           }
@@ -313,8 +324,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "06fa71834c2cb55c",
+  "active": "805e088c0e18fbcc",
   "lastOpenFiles": [
+    "정보처리기사/필기 벼락치기 준비.md",
+    "정보처리기사",
     "안드로이드/Companion Object.md",
     "안드로이드/무제 파일.md",
     "안드로이드/Flow.md",
@@ -330,7 +343,6 @@
     "네트워크/2.4 IP주소.md",
     "네트워크/2.3 네트워크 기기.md",
     "디자인 패턴/1.1 디자인 패턴.md",
-    "무제 폴더",
     "디자인 패턴/1.2 프로그래밍 패러다임.md",
     "스크린샷 2024-03-25 오후 7.41.39.png",
     "스크린샷 2024-03-25 오후 7.33.59.png",
