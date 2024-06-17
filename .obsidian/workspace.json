@@ -203,14 +203,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/플러터 기본 다지기.md",
+                "file": "Flutter/기본 위젯 알아보기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2208cffbe1b8d234",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutter/플러터 입문하기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -260,8 +272,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "17bd5a38f90b4f47",
@@ -277,7 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/플러터 기본 다지기.md",
+                "file": "Flutter/플러터 입문하기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,7 +305,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/플러터 기본 다지기.md",
+                "file": "Flutter/플러터 입문하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -317,7 +328,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/플러터 기본 다지기.md"
+                "file": "Flutter/플러터 입문하기.md"
               }
             }
           }
@@ -338,11 +349,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5ac0e661501e7889",
+  "active": "2208cffbe1b8d234",
   "lastOpenFiles": [
-    "README.md",
-    "Flutter/플러터 기본 다지기.md",
+    "Flutter/기본 위젯 알아보기.md",
     "Flutter/다트 입문하기.md",
+    "Flutter/플러터 입문하기.md",
+    "README.md",
     "네트워크/2.1 네트워크의 기초.md",
     "네트워크/2.2 TCPIP 4계층 모델.md",
     "디자인 패턴/1.2 프로그래밍 패러다임.md",
