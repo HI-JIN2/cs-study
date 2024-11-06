@@ -220,9 +220,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "094aaebd4eaa0d1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "코틀린 코루틴의 정석/1장 스레드 기반 작업의 한계와 코루틴의 등장.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -288,7 +300,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/플러터 입문하기.md",
+                "file": "코틀린 코루틴의 정석/1장 스레드 기반 작업의 한계와 코루틴의 등장.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,7 +317,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/플러터 입문하기.md",
+                "file": "코틀린 코루틴의 정석/1장 스레드 기반 작업의 한계와 코루틴의 등장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -328,7 +340,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/플러터 입문하기.md"
+                "file": "코틀린 코루틴의 정석/1장 스레드 기반 작업의 한계와 코루틴의 등장.md"
               }
             }
           }
@@ -349,11 +361,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2208cffbe1b8d234",
+  "active": "094aaebd4eaa0d1e",
   "lastOpenFiles": [
+    "2024-11-06.md",
+    "코틀린 코루틴의 정석/1장 스레드 기반 작업의 한계와 코루틴의 등장.md",
+    "Flutter/플러터 입문하기.md",
+    "코틀린 코루틴의 정석",
     "Flutter/기본 위젯 알아보기.md",
     "Flutter/다트 입문하기.md",
-    "Flutter/플러터 입문하기.md",
     "README.md",
     "네트워크/2.1 네트워크의 기초.md",
     "네트워크/2.2 TCPIP 4계층 모델.md",
@@ -391,7 +406,6 @@
     "운영체제",
     "네트워크",
     "안드로이드",
-    "디자인 패턴",
     "무제 파일.canvas",
     "2024-03-08.md"
   ]
