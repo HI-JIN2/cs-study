@@ -232,9 +232,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1e93582b493c3636",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "코틀린 코루틴의 정석/2장 코루틴 개발 환경 설정.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -284,7 +296,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "17bd5a38f90b4f47",
@@ -300,7 +313,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코틀린 코루틴의 정석/1장 스레드 기반 작업의 한계와 코루틴의 등장.md",
+                "file": "코틀린 코루틴의 정석/2장 코루틴 개발 환경 설정.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -317,7 +330,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코틀린 코루틴의 정석/1장 스레드 기반 작업의 한계와 코루틴의 등장.md",
+                "file": "코틀린 코루틴의 정석/2장 코루틴 개발 환경 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -340,7 +353,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코틀린 코루틴의 정석/1장 스레드 기반 작업의 한계와 코루틴의 등장.md"
+                "file": "코틀린 코루틴의 정석/2장 코루틴 개발 환경 설정.md"
               }
             }
           }
@@ -361,11 +374,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "094aaebd4eaa0d1e",
+  "active": "1e93582b493c3636",
   "lastOpenFiles": [
+    "코틀린 코루틴의 정석/1장 스레드 기반 작업의 한계와 코루틴의 등장.md",
+    "코틀린 코루틴의 정석/2장 코루틴 개발 환경 설정.md",
     "코틀린 코루틴의 정석/README.md",
     "2024-11-06.md",
-    "코틀린 코루틴의 정석/1장 스레드 기반 작업의 한계와 코루틴의 등장.md",
     "Flutter/플러터 입문하기.md",
     "코틀린 코루틴의 정석",
     "Flutter/기본 위젯 알아보기.md",
