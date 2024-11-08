@@ -308,7 +308,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "17bd5a38f90b4f47",
@@ -387,6 +388,8 @@
   },
   "active": "2edfba6208c4732c",
   "lastOpenFiles": [
+    "스크린샷 2024-11-08 오후 12.29.25.png",
+    "스크린샷 2024-11-08 오후 12.28.56.png",
     "코틀린 코루틴의 정석/1장 스레드 기반 작업의 한계와 코루틴의 등장.md",
     "코틀린 코루틴의 정석/3장 CoroutineDispatcher.md",
     "코틀린 코루틴의 정석/2장 코루틴 개발 환경 설정.md",
@@ -424,10 +427,8 @@
     "스크린샷 2024-03-25 오후 7.30.04.png",
     "Pasted image 20240325171844.png",
     "Pasted image 20240325171739.png",
-    "스크린샷 2024-03-25 오후 5.02.14.png",
     "SpringBoot in Action",
     "안드로이드/Livedata.md",
-    "안드로이드/DataBinding.md",
     "알고리즘",
     "자료구조",
     "데이터베이스",
