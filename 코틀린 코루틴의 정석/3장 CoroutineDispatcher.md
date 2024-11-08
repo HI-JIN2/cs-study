@@ -53,5 +53,10 @@ CoroutineDispatcher은 추상클래스임
 코루틴을 넣어 디스패처에 실행을 요청해보자
 
 ## 3-4. CoroutineDispatcher 사용해 코루틴 실행하기
+- launch의 파라미터로 CoroutineDispatcher 사용하기
+	```kotlin
+
+	```
+
 
 ## 3-5. 미리 정의된 CoroutineDispatcher.
