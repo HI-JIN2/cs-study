@@ -7,10 +7,12 @@ CoroutineDispatcher
 
 코루틴은 일시정지가 가능한 작업(Job)이라서 스레드가 있어야 실행가능함
 
+스레드풀 개념을 여기서도 씀
+
 
 ## 3-2. 제한된 디스패처와 무제한 디스패처 
 ## 3-3. 제한된 디스패처 생성하기.
 
 ## 3-4. CoroutineDispatcher사용해 코루틴 실행하기
 
-## 3-5 미리정의된CoroutineDispatcher.
+## 3-5. 미리정의된CoroutineDispatcher.
