@@ -16,7 +16,9 @@
                 "file": "면접을 위한 CS 전공지식 노트/디자인 패턴/1.1 디자인 패턴.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1.1 디자인 패턴"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "안드로이드/Livedata.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Livedata"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "안드로이드/Companion Object.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Companion Object"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "면접을 위한 CS 전공지식 노트/디자인 패턴/1.1 디자인 패턴.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1.1 디자인 패턴"
             }
           },
           {
@@ -64,7 +72,9 @@
                 "file": "README.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
@@ -76,7 +86,9 @@
                 "file": "SpringBoot in Action/1-1. 스프링부트 시작하기.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1-1. 스프링부트 시작하기"
             }
           },
           {
@@ -88,7 +100,9 @@
                 "file": "면접을 위한 CS 전공지식 노트/디자인 패턴/1.1 디자인 패턴.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1.1 디자인 패턴"
             }
           },
           {
@@ -100,7 +114,9 @@
                 "file": "면접을 위한 CS 전공지식 노트/네트워크/2.1 네트워크의 기초.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2.1 네트워크의 기초"
             }
           },
           {
@@ -112,7 +128,9 @@
                 "file": "면접을 위한 CS 전공지식 노트/네트워크/2.2 TCPIP 4계층 모델.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2.2 TCPIP 4계층 모델"
             }
           },
           {
@@ -124,7 +142,9 @@
                 "file": "면접을 위한 CS 전공지식 노트/네트워크/2.3 네트워크 기기.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2.3 네트워크 기기"
             }
           },
           {
@@ -136,7 +156,9 @@
                 "file": "면접을 위한 CS 전공지식 노트/네트워크/2.4 IP주소.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2.4 IP주소"
             }
           },
           {
@@ -148,7 +170,9 @@
                 "file": "README.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
@@ -160,7 +184,9 @@
                 "file": "SpringBoot in Action/1-1. 스프링부트 시작하기.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1-1. 스프링부트 시작하기"
             }
           },
           {
@@ -172,7 +198,9 @@
                 "file": "안드로이드/Flow.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Flow"
             }
           },
           {
@@ -182,7 +210,9 @@
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.5.12"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.5.12"
             }
           },
           {
@@ -194,7 +224,9 @@
                 "file": "Flutter/다트 입문하기.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "다트 입문하기"
             }
           },
           {
@@ -206,7 +238,9 @@
                 "file": "Flutter/기본 위젯 알아보기.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "기본 위젯 알아보기"
             }
           },
           {
@@ -218,7 +252,9 @@
                 "file": "Flutter/플러터 입문하기.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "플러터 입문하기"
             }
           },
           {
@@ -230,7 +266,9 @@
                 "file": "코틀린 코루틴의 정석/1장 스레드 기반 작업의 한계와 코루틴의 등장.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1장 스레드 기반 작업의 한계와 코루틴의 등장"
             }
           },
           {
@@ -242,7 +280,9 @@
                 "file": "코틀린 코루틴의 정석/2장 코루틴 개발 환경 설정.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2장 코루틴 개발 환경 설정"
             }
           },
           {
@@ -254,11 +294,25 @@
                 "file": "코틀린 코루틴의 정석/3장 CoroutineDispatcher.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "3장 CoroutineDispatcher"
+            }
+          },
+          {
+            "id": "4832eb3279079c1a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -278,7 +332,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -293,7 +349,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -301,7 +359,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -325,7 +385,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코틀린 코루틴의 정석/3장 CoroutineDispatcher.md",
+                "file": "면접을 위한 CS 전공지식 노트/디자인 패턴/1.1 디자인 패턴.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -333,7 +393,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "1.1 디자인 패턴의 백링크"
             }
           },
           {
@@ -342,10 +404,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코틀린 코루틴의 정석/3장 CoroutineDispatcher.md",
+                "file": "면접을 위한 CS 전공지식 노트/디자인 패턴/1.1 디자인 패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "1.1 디자인 패턴의 나가는 링크"
             }
           },
           {
@@ -356,7 +420,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -365,8 +431,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코틀린 코루틴의 정석/3장 CoroutineDispatcher.md"
-              }
+                "file": "면접을 위한 CS 전공지식 노트/디자인 패턴/1.1 디자인 패턴.md"
+              },
+              "icon": "lucide-list",
+              "title": "1.1 디자인 패턴 개요"
             }
           }
         ]
@@ -386,7 +454,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2edfba6208c4732c",
+  "active": "4832eb3279079c1a",
   "lastOpenFiles": [
     "스크린샷 2024-11-08 오후 12.29.25.png",
     "스크린샷 2024-11-08 오후 12.28.56.png",
