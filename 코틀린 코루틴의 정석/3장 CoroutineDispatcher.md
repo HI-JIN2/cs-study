@@ -48,15 +48,48 @@ public fun newSingleThreadContext (name: String): CloseableCoroutineDispatcher =
 ```
 
 newFixedThreadPoolContext 까보면 Executor 써서 스레드풀을 만듦
-CoroutineDispatcher은 추상클래스임 
-
-코루틴을 넣어 디스패처에 실행을 요청해보자
+CoroutineDispatcher은 추상클래스임. 그래서 다양하게 구현될 수 있으므로 내부를 다 알아야할 필요는 x
 
 ## 3-4. CoroutineDispatcher 사용해 코루틴 실행하기
-- launch의 파라미터로 CoroutineDispatcher 사용하기
+코루틴을 넣어 디스패처에 실행을 요청해보자
+#### launch의 파라미터로 CoroutineDispatcher 사용하기
 	```kotlin
-
+	fun main() = runBlocking<Unit>{
+		val dispatcher = newSingleThreadContext(name="SingleThread")
+		 
+		launch(context = dispatcher){
+			println("[${Thread.currentTherad().name}] 실행")
+		}
+	}
 	```
+- launch(dispatcher)로 해도 됨. 인자 받는게 어차피 하나라서..는 모르겠고 첫인자라서
 
+#### 멀티 스레드 디스패처 사용해서 코투린 실행하기
 
+```kotlin
+	fun main() = runBlocking<Unit>{
+		val multiThreadDispatcher = newFixedThreadContext(nThreads =2, name="MultiThread")
+		 
+		launch(context = multiThreadDispatcher){
+			println("[${Thread.currentTherad().name}] 실행")
+		}
+		launch(context = multiThreadDispatcher){
+			println("[${Thread.currentTherad().name}] 실행")
+		}
+	}
+```
+
+- 이렇게 하면 각각 다른 스레드에서 실행이 된다.
+- [MultiThread-1 @coroutine#2]
+- [MultiThread-2 @coroutine#3] 
+
+#### 부모 코루틴의 CoroutineDispathcer 사용해 자식 코루틴 실행하기
+구조화를 통해서 코루틴 내부에서 새로운 코루틴을 실행할 수 있음
+- 바깥쪽 코루틴 = Parent 코루틴 = 부모코루틴
+- 내부에서 생성되는 새로운 코루틴 = Child 코루틴 = 자식 코루틴
+
+구조화
+1. 코루틴을 계층관계로 만듦
+2. 부모 코루틴의 실행 환경을 자식 코루틴에 전달하는데도 사용
+3. 자식 코루틴에 dispatcher 객체를 따로 설정해주지 않았다면, 자동으로 부모거를 사용한다.
 ## 3-5. 미리 정의된 CoroutineDispatcher.
