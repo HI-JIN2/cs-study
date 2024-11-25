@@ -1,7 +1,7 @@
 
 CoroutineDispatcher
 ## 3-1. CoroutineDispatcher란 무엇인가?
-코루틴을 보내는 주체
+> 코루틴을 보내는 주체
 
 코루틴을 어디로 보냄? 스레드로
 
