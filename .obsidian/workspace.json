@@ -291,12 +291,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코틀린 코루틴의 정석/3장 CoroutineDispatcher.md",
+                "file": "코틀린 코루틴의 정석/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3장 CoroutineDispatcher"
+              "title": "README"
             }
           }
         ],
@@ -356,8 +356,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "17bd5a38f90b4f47",
@@ -444,10 +443,10 @@
   },
   "active": "4832eb3279079c1a",
   "lastOpenFiles": [
+    "코틀린 코루틴의 정석/3장 CoroutineDispatcher.md",
     "스크린샷 2024-11-08 오후 12.29.25.png",
     "스크린샷 2024-11-08 오후 12.28.56.png",
     "코틀린 코루틴의 정석/1장 스레드 기반 작업의 한계와 코루틴의 등장.md",
-    "코틀린 코루틴의 정석/3장 CoroutineDispatcher.md",
     "코틀린 코루틴의 정석/2장 코루틴 개발 환경 설정.md",
     "SpringBoot in Action/1-1. 스프링부트 시작하기.md",
     "README.md",
@@ -482,7 +481,6 @@
     "스크린샷 2024-03-25 오후 7.31.07.png",
     "스크린샷 2024-03-25 오후 7.30.04.png",
     "Pasted image 20240325171844.png",
-    "Pasted image 20240325171739.png",
     "SpringBoot in Action",
     "안드로이드/Livedata.md",
     "알고리즘",

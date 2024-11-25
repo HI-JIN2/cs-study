@@ -2,8 +2,7 @@
 CoroutineDispatcher
 ## 3-1. CoroutineDispatcher란 무엇인가?
 > 코루틴을 보내는 주체
-
-코루틴을 어디로 보냄? 스레드로
+   코루틴을 어디로 보냄? 스레드로
 
 코루틴은 일시정지가 가능한 작업(Job)이라서 스레드가 있어야 실행가능함
 
@@ -28,6 +27,8 @@ CoroutineDispatcher는 코루틴의 실행을 관리하는 주체
 	3. 11.3장에서 자세히 다룸 일단 패스~
 
 ## 3-3. 제한된 디스패처 생성하기.
+뭐가 제한됨? 스레드!
+스레드 수
 
 - 싱글 스레드 디스패처 만들기
 ```kotlin
@@ -110,9 +111,14 @@ launch 안에 launch
 만약, 너무 무거운 작업을 해버려서 스레드를 다 먹어버리면 어쩌나, 그런 사태를 막기 위해서 스레드 개수를 제한할 수 있다. 
 Dispatchers.Default.limitedParallelism(2)하면 Dispatchers.Default의 전체 스레드가 아니라 딱 2개의 스레드만 해당 작업을 위해 사용하게 할 수 있다.
 
-
+- Dispatchers.IO.limitedParallelism는 스레드 개수 제한이 없음
+	- 아예  Dispatchers.IO와  Dispatchers.Default와 상관없는 스레드풀을 만들어버리는것임
 #### 공유스레드풀을사용하는Dispatchers.IO와Dispatchers.Default
 
 Dispatchers.IO와 Dispatchers.Default는 같은 스레드풀을 사용한다.
 사용하는 스레드는 구분되어 있지만, 스레드풀 자체는 같이 쓴다.
+#### Dispatchers.Main
+
+Dispatchers.Main은 메인스레드 혹은 UI스레드라서 참조는 가능하지만 사용할 수는 없다.
+안드로이드 라이브러리를 사용하면 사용가능!
 
