@@ -25,5 +25,19 @@
 ## 4-3. CoroutineStart.LAZY사용해코루틴지연시작하기
 코루틴은 지연시작이 가능하다
 
+```kotlin
+fun main() = runBlocking<Unit>{
+	val starttime = System.currentTimeMillis()
+	val lazyJob: Job = launch(start=CoroutineStart.LAZY){
+		print("[${getElapsedTime(startTime)}] 지연실행")
+	}
+	delay(1000L)
+	lazyJob().start()
+}
+```
+
+1초 후 실행
+
+## 4-4. 코루틴 취소하기
 
 
