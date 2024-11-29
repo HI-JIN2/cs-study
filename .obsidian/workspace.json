@@ -56,7 +56,7 @@
               "type": "markdown",
               "state": {
                 "file": "코틀린 코루틴의 정석/5장 async와 Deferred.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -384,7 +384,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "17bd5a38f90b4f47",
@@ -471,6 +472,7 @@
   },
   "active": "f49723c72a149e92",
   "lastOpenFiles": [
+    "Pasted image 20241129135836.png",
     "코틀린 코루틴의 정석/4장 코루틴 빌더와 Job.md",
     "코틀린 코루틴의 정석/5장 async와 Deferred.md",
     "스크린샷 2024-11-28 오후 1.40.12.png",
@@ -510,7 +512,6 @@
     "SpringBoot in Action/1-3. Question Set.md",
     "면접을 위한 CS 전공지식 노트/네트워크/2.5 HTTP.md",
     "면접을 위한 CS 전공지식 노트/네트워크/2.4 IP주소.md",
-    "면접을 위한 CS 전공지식 노트/네트워크/2.3 네트워크 기기.md",
     "SpringBoot in Action",
     "알고리즘",
     "자료구조",
