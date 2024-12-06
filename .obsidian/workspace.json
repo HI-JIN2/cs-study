@@ -78,6 +78,18 @@
             }
           },
           {
+            "id": "6ba4080b87e532f4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
             "id": "2db7783c68951622",
             "type": "leaf",
             "state": {
@@ -342,7 +354,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -483,7 +495,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5b24694704669f6b",
+  "active": "6ba4080b87e532f4",
   "lastOpenFiles": [
     "코틀린 코루틴의 정석/5장 async와 Deferred.md",
     "코틀린 코루틴의 정석/6장 CoroutineContext.md",
