@@ -165,7 +165,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "지능형시스템/1. 인공지능 기초.md",
+                "file": "8학기 (25-2)/지능형시스템/1. 인공지능 기초.md",
                 "mode": "source",
                 "source": false
               },
@@ -179,7 +179,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "지능형시스템/1. 인공지능 기초.md",
+                "file": "8학기 (25-2)/지능형시스템/1. 인공지능 기초.md",
                 "mode": "source",
                 "source": false
               },
@@ -193,12 +193,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "지능형시스템/6. 머신러닝 기초.md",
+                "file": "8학기 (25-2)/지능형시스템/6. 머신러닝 기초.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "6. 머신러닝 기초"
+            }
+          },
+          {
+            "id": "0ba4dc7bdec340c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8학기 (25-2)/파일처리/README.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README.md"
+            }
+          },
+          {
+            "id": "b93a983817692ea9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8학기 (25-2)/파일처리/6-1. 인덱스 구조 - 이진탐색트리.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6-1. 인덱스 구조 - 이진탐색트리"
+            }
+          },
+          {
+            "id": "621898fd84390cda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8학기 (25-2)/파일처리/6-1. 인덱스 구조 - 이진탐색트리.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6-1. 인덱스 구조 - 이진탐색트리"
             }
           },
           {
@@ -466,7 +508,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -539,7 +581,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "지능형시스템/6. 머신러닝 기초.md",
+                "file": "8학기 (25-2)/파일처리/6-1. 인덱스 구조 - 이진탐색트리.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -549,7 +591,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "6. 머신러닝 기초 의 백링크"
+              "title": "6-1. 인덱스 구조 - 이진탐색트리 의 백링크"
             }
           },
           {
@@ -608,13 +650,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0876f80ae0dcdfa0",
+  "active": "621898fd84390cda",
   "lastOpenFiles": [
-    "지능형시스템/1. 인공지능 기초.md",
-    "지능형시스템/6. 머신러닝 기초.md",
-    "지능형시스템/README.md.md",
+    "8학기 (25-2)/파일처리/6-2. 인덱스 구조 - AVL 트리.md",
+    "8학기 (25-2)/파일처리/README.md.md",
+    "8학기 (25-2)/파일처리/6-1. 인덱스 구조 - 이진탐색트리.md",
+    "8학기 (25-2)/지능형시스템/6. 머신러닝 기초.md",
+    "8학기 (25-2)/파일처리",
+    "8학기 (25-2)",
+    "8학기 (25-2)/지능형시스템/1. 인공지능 기초.md",
+    "8학기 (25-2)/지능형시스템/README.md.md",
     "코틀린 코루틴의 정석/README.md",
-    "지능형시스템",
+    "8학기 (25-2)/지능형시스템",
     "면접을 위한 CS 전공지식 노트/네트워크/2.1 네트워크의 기초.md",
     "코딩테스트 준비하기.md",
     "면접을 위한 CS 전공지식 노트/네트워크/2.2 TCPIP 4계층 모델.md",
@@ -646,16 +693,11 @@
     "2024-11-06.md",
     "Flutter/플러터 입문하기.md",
     "코틀린 코루틴의 정석",
-    "Flutter/기본 위젯 알아보기.md",
-    "Flutter/다트 입문하기.md",
-    "면접을 위한 CS 전공지식 노트/디자인 패턴/1.2 프로그래밍 패러다임.md",
     "Flutter",
     "정보처리기사",
     "SpringBoot in Action",
     "알고리즘",
     "자료구조",
-    "데이터베이스",
-    "운영체제",
     "무제 파일.canvas"
   ]
 }
