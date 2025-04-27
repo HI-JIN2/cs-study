@@ -258,6 +258,62 @@
             }
           },
           {
+            "id": "c464be7f79ec829c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8학기 (25-2)/파일처리/1. 파일의 기본 개념.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. 파일의 기본 개념"
+            }
+          },
+          {
+            "id": "dd6bdced8e16ccf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8학기 (25-2)/파일처리/2. 파일 저장장치.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. 파일 저장장치"
+            }
+          },
+          {
+            "id": "c9477a0e617101ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8학기 (25-2)/파일처리/3. 파일의 입출력 제어.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. 파일의 입출력 제어"
+            }
+          },
+          {
+            "id": "8e22434388adf97e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8학기 (25-2)/파일처리/1. 파일의 기본 개념.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. 파일의 기본 개념"
+            }
+          },
+          {
             "id": "2db7783c68951622",
             "type": "leaf",
             "state": {
@@ -522,7 +578,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -595,7 +651,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8학기 (25-2)/파일처리/5. 화일의 정렬합병.md",
+                "file": "8학기 (25-2)/파일처리/1. 파일의 기본 개념.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -605,7 +661,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "5. 화일의 정렬합병 의 백링크"
+              "title": "1. 파일의 기본 개념 의 백링크"
             }
           },
           {
@@ -664,12 +720,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "bb003b0f013f1069",
+  "active": "8e22434388adf97e",
   "lastOpenFiles": [
-    "Pasted image 20250427165753.png",
-    "8학기 (25-2)/파일처리/README.md",
     "8학기 (25-2)/파일처리/6. 인덱스 구조 - 이진탐색트리, AVL 트리.md",
     "8학기 (25-2)/파일처리/5. 화일의 정렬합병.md",
+    "8학기 (25-2)/파일처리/1. 파일의 기본 개념.md",
+    "8학기 (25-2)/파일처리/3. 파일의 입출력 제어.md",
+    "8학기 (25-2)/파일처리/4. 순차 화일.md",
+    "8학기 (25-2)/파일처리/2. 파일 저장장치.md",
+    "8학기 (25-2)/파일처리/README.md",
+    "Pasted image 20250427165753.png",
     "8학기 (25-2)/지능형시스템/README.md",
     "8학기 (25-2)/지능형시스템/1. 인공지능 기초.md",
     "8학기 (25-2)/데이터통신",
@@ -697,15 +757,11 @@
     "코틀린 코루틴의 정석/3장 CoroutineDispatcher.md",
     "코틀린 코루틴의 정석/2장 코루틴 개발 환경 설정.md",
     "코틀린 코루틴의 정석/1장 스레드 기반 작업의 한계와 코루틴의 등장.md",
-    "안드로이드/Livedata.md",
     "Pasted image 20241129135836.png",
     "스크린샷 2024-11-28 오후 1.40.12.png",
     "스크린샷 2024-11-28 오후 1.36.51.png",
-    "면접을 위한 CS 전공지식 노트/디자인 패턴/1.1 디자인 패턴.md",
     "스크린샷 2024-11-26 오후 2.30.51.png",
     "스크린샷 2024-11-26 오후 12.16.18.png",
-    "스크린샷 2024-11-08 오후 12.29.25.png",
-    "SpringBoot in Action/1-1. 스프링부트 시작하기.md",
     "면접을 위한 CS 전공지식 노트",
     "코틀린 코루틴의 정석",
     "Flutter",
