@@ -314,6 +314,34 @@
             }
           },
           {
+            "id": "e4a95bdc587b8319",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8학기 (25-2)/데이터통신/1. 서론.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. 서론"
+            }
+          },
+          {
+            "id": "05e3494ac5f57d7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8학기 (25-2)/데이터통신/1. 서론.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. 서론"
+            }
+          },
+          {
             "id": "2db7783c68951622",
             "type": "leaf",
             "state": {
@@ -578,7 +606,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -651,7 +679,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8학기 (25-2)/파일처리/6. 인덱스 구조 - 이진탐색트리, AVL 트리.md",
+                "file": "8학기 (25-2)/데이터통신/1. 서론.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -661,7 +689,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "6. 인덱스 구조 - 이진탐색트리, AVL 트리 의 백링크"
+              "title": "1. 서론 의 백링크"
             }
           },
           {
@@ -720,14 +748,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8e22434388adf97e",
+  "active": "05e3494ac5f57d7e",
   "lastOpenFiles": [
+    "8학기 (25-2)/데이터통신/2. Application 계층 (응용계층).md",
+    "8학기 (25-2)/데이터통신/1. 서론.md",
+    "8학기 (25-2)/파일처리/6. 인덱스 구조 - 이진탐색트리, AVL 트리.md",
     "8학기 (25-2)/파일처리/5. 화일의 정렬합병.md",
     "8학기 (25-2)/파일처리/4. 순차 화일.md",
     "8학기 (25-2)/파일처리/1. 파일의 기본 개념.md",
     "8학기 (25-2)/파일처리/2. 파일 저장장치.md",
     "8학기 (25-2)/파일처리/3. 파일의 입출력 제어.md",
-    "8학기 (25-2)/파일처리/6. 인덱스 구조 - 이진탐색트리, AVL 트리.md",
     "Pasted image 20250428221316.png",
     "Pasted image 20250428213925.png",
     "8학기 (25-2)/지능형시스템/6. 머신러닝 기초.md",
@@ -757,7 +787,6 @@
     "코틀린 코루틴의 정석/5장 async와 Deferred.md",
     "코틀린 코루틴의 정석/4장 코루틴 빌더와 Job.md",
     "코틀린 코루틴의 정석/3장 CoroutineDispatcher.md",
-    "코틀린 코루틴의 정석/2장 코루틴 개발 환경 설정.md",
     "Pasted image 20241129135836.png",
     "스크린샷 2024-11-28 오후 1.40.12.png",
     "스크린샷 2024-11-28 오후 1.36.51.png",
