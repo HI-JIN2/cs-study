@@ -6,8 +6,8 @@
 - 정제된 글은 [Velog](https://velog.io/@jini_1514/posts)에서 보실 수 있습니다. 
 
 ## Current Studying (2025. 11)
-- [ManifestAndroidInterview](https://leanpub.com/manifest-android-interview-kr)
-- Cloud
+- [ManifestAndroidInterview](https://github.com/HI-JIN2/cs-study/tree/main/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C/manifest-android-interview)
+- [Cloud](https://github.com/HI-JIN2/cs-study/tree/main/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C)
 
 ## Past Studying
 ### 2024년 11월 
@@ -19,5 +19,6 @@
 
 ## 오류 제보
 - 오개념에 대한 반박시, 당신이 맞습니다. 
-	![[Pasted image 20240312172813.png]]
+	![당말옳](https://i1.ruliweb.com/cmt/21/08/30/17b95f5e78be893.jpg)
+	
 - 고로, 오류 사항에 대한 제보는 issue 발행 후, branch를 생성하셔서 PR을 날려주시면 감사히 반영하도록 하겠습니다.
