@@ -1,4 +1,3 @@
-![](https://velog.velcdn.com/images/jini_1514/post/ba7b29e9-badf-4271-8aa3-4671244d5c29/image.png)
 
 Handler
 Looper
