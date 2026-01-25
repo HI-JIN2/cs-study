@@ -43,8 +43,8 @@
 
 - APT 캐시에 질의해서 여러가지 정보를 검색
 - 통계정보 확인: apt-cache stats
-- 캐시에서 패지지 확인: apt-cache search 패키지이름
-- 캐시에서 패지지 정보 출력: apt-cache show 패키지이름
+- 캐시에서 패키지 확인: apt-cache search 패키지이름
+- 캐시에서 패키지 정보 출력: apt-cache show 패키지이름
 - 사용 가능한 패키지 이름 확인: apt-cache pkgnames
 
 - apt-get 또는 apt
@@ -363,4 +363,3 @@ sh 나 bash로 연결된 스크립트 파일 실행할 때 사용
 | 재시도 | 재시도 가능 | 재시도하지 않음 |
 | 재귀적 다운로드 | 가능 | 불가 |
 | 복잡성 | 단순하고 직관적 | 다양한 프로토콜/옵션 제공 |
-

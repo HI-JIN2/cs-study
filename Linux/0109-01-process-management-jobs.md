@@ -140,4 +140,4 @@ sudo ls /var/spool/cron/crontabs
 ```
 
 - crontab 로그
-우분투에서는 기본적으로 cron 로그 기록이 비활성화되어 있는데 cron.log를 활성화하고자 하는 경우 sudo service rsylog restart 명령을 수행하면 됩니다.
+우분투에서는 기본적으로 cron 로그 기록이 비활성화되어 있는데 cron.log를 활성화하고자 하는 경우 sudo service rsyslog restart 명령을 수행하면 됩니다.

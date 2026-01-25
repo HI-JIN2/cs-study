@@ -5,7 +5,7 @@
 - **개요**:
 
 - NAT(Network Address Translation)
-IP 주소를 다른 IP 주소로 변환해 라우팅을 원할히 해주는 기술
+IP 주소를 다른 IP 주소로 변환해 라우팅을 원활히 해주는 기술
 1:1이 기본
 
 - PAT(Port Address Translation)
@@ -387,4 +387,3 @@ subnet 네트워크주소 netmask 서브넷마스크{
 ```bash
 systemctl start dhcpd.service
 ```
-

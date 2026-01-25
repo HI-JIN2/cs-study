@@ -75,7 +75,7 @@ Power Shell에서 설치를 하면 Ubuntu Linux의 Kernel이 설치되서 가상
 ```bash
 sudo apt-get update
 sudo apt-get upgrade
-sudo apt-get install --no-install-recommands ubuntu-desktop
+sudo apt-get install --no-install-recommends ubuntu-desktop
 ```
 
 - Desktop: GUI(Graphic User Interface) 환경 - https://ubuntu.com/download/desktop
@@ -287,7 +287,7 @@ a 옵션과 /tmp 라는 인자와 함께 사용
 - 명령어 자동 완성
 
 - 명령어의 시작 부분을 입력하고 Tab을 누르는 경우 명령어가 1개 밖에 없으면 명령어를 자동완성 해줍니다.
-eg로 시작하는 명령이 egerp 하나 인 경우 eg만 입력하고 tab을 누르면 명령어가 자동완성 됩니다.
+eg로 시작하는 명령이 egrep 하나인 경우 eg만 입력하고 tab을 누르면 명령어가 자동완성 됩니다.
 
 - 명령의 시작 부분을 입력하고 Tab을 두번 누르면 시작하는 모든 명령어가 출력됩니다.
 e를 입력하고 Tab을 두번 누르면 e로 시작하는 모든 명령어가 출력됩니다.
@@ -371,7 +371,7 @@ passwd [계정]
 
 - 현재 설정된 별명을 확인: alias
 
-- 설정: alias 별병='설정값'
+- 설정: alias 별명='설정값'
 
 ```bash
 ls -F 라는 명령을 ls 라는 별명으로 설정: alias ls='ls -F'

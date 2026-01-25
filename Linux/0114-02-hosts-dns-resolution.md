@@ -1,6 +1,6 @@
 # Hosts and DNS Resolution
 
-- 운영하는 서버세엇 hosts 사용을 피해야 하는 이유
+- 운영하는 서버에서 hosts 사용을 피해야 하는 이유
 
 - DNS 변경이 반영되지 않을 수 있음
 상황

@@ -14,7 +14,7 @@
 - 소켓 기반으로동작하여 inetd 와 호환성을 유지
 - 쉘과 독립적으로 부팅이 가능
 - 마운트 제어가 가능
-- fsck(File System ChecK) 제어 가능
+- fsck(File System Check) 제어 가능
 - 시스템 상태에 대한 스냅샷을 유지
 - 서비스에 시그널 전송 가능
 - 셧 다운 전에 사용자 세션의 안전한 종료가 가능
@@ -213,19 +213,19 @@ LILO에 비해 설정과 사용이 편리
 
 - /boot/grub/grub.cfg
 직접 수정 불가
-이 파일이 /etc/defaul/grub 파일 과 /etc/grub.d 디렉토리 아래에 있는 스크립트를 읽어서 생성
+이 파일이 /etc/default/grub 파일 과 /etc/grub.d 디렉토리 아래에 있는 스크립트를 읽어서 생성
 파일의 내용을 수정하고자 하는 경우는 위의 파일 과 디렉토리 안에 있는 파일을 수정
 
 - /etc/grub.d 디렉토리
 GRUB 관련 스크립트를 가지고 있음
 
-- /etc/defaul/grub 파일
+- /etc/default/grub 파일
 GRUB 메뉴 설정 내용이 저장되어 있음
 
 - 루트 계정의 암호를 잃어버린 경우
 
 - GRUB 메뉴 초기 화면을 출력
-- 메뉴 초기 화면에서 E를 눌러서 편집 모드로 전환한 후 커서를 아래로 내려서 ro splach vt_handoff 부분을 rw init=/bin/bash로 수정
+- 메뉴 초기 화면에서 E를 눌러서 편집 모드로 전환한 후 커서를 아래로 내려서 ro splash vt_handoff 부분을 rw init=/bin/bash로 수정
 - 재부팅하면 비밀번호 없이 root 계정으로 로그인
 
 ### 5) Namespace & Cgroup
@@ -256,4 +256,3 @@ ns: namespace 서브 시스템
 
 - 프로세스를 격리하기 위해 사용하는 커널의 기능
 - Docker 와 같은 컨테이너 기술의 핵심 기반
-

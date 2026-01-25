@@ -56,11 +56,11 @@ echo "I can speak $language"
 
 - 실행
 
-- Korea Newziland USA 디렉토리를 셸 스크립트를 이용해서 생성
+- Korea New Zealand USA 디렉토리를 셸 스크립트를 이용해서 생성
 ```bash
 #!/bin/bash
 
-language="Korea Newziland USA"
+language="Korea New Zealand USA"
 mkdir $language
 ```
 
@@ -126,7 +126,7 @@ echo "$#"
 
 실행
 ```bash
-./myshell.sh Korea Newziland
+./myshell.sh Korea New\ Zealand
 ```
 
 - 특수 매개변수
@@ -593,4 +593,3 @@ grep -E '^[[:alpha:]]{5}:' expression.txt
 ```bash
 grep -E '^[[:alpha:]]{5,}[[:space:]]' expression.txt
 ```
-

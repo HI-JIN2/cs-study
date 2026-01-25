@@ -40,7 +40,7 @@ ROM에 저장되어 있어서 ROM BIOS 라고도 함
 부팅 끝
 
 GUI를 사용하면 부팅 과정에서 보여지는 메시지가 출력되지 않고 부트 스플래시라는 이미지가 출력됩니다.
-GUI 환경에서 부팅 메시지를 출력하고자 하는 경우에는 /etc/defatult/grup 파일에서 GRUB_CMDLINE_LINUX_DEFAULT="quiet splash" 부분의 quiet를 삭제한 후 sudo update-grub를 수행하면 됩니다.
+GUI 환경에서 부팅 메시지를 출력하고자 하는 경우에는 /etc/default/grub 파일에서 GRUB_CMDLINE_LINUX_DEFAULT="quiet splash" 부분의 quiet를 삭제한 후 sudo update-grub를 수행하면 됩니다.
 이 설정은 GUI 리눅스에서 부팅 실패하는 경우 설정해서 확인합니다.
 
-부팅한 후 이 메시지를 확인하고자 하면 /var/log/dmsg 나 /var/log/bootstrap.log
+부팅한 후 이 메시지를 확인하고자 하면 /var/log/dmesg 나 /var/log/bootstrap.log

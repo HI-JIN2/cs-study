@@ -23,7 +23,7 @@
 Application - FTP, SSH, TELNET, DNS, SNMP
 Transport - TCP, UDP
 Network - IP, ICMP, ARP
-DataLink 와  Phsical - Ethernet
+DataLink 와 Physical - Ethernet
 
 - OSI 7계층
 
@@ -61,7 +61,7 @@ DataLink 와  Phsical - Ethernet
 
 전기 신호를 전달하는데 초점을 맞춤
 
-주요 장비로는 Hub(여러 대의 장비를 연결), Repeater(증폭기), Cable, Connector, Transiber, TAP(네트워크 모니터링이나 패킷 분석을 하기 위해서 전기 신호를 다른 장비로 복제해주는 장비) 등이 있습니다.
+주요 장비로는 Hub(여러 대의 장비를 연결), Repeater(증폭기), Cable, Connector, Transceiver, TAP(네트워크 모니터링이나 패킷 분석을 하기 위해서 전기 신호를 다른 장비로 복제해주는 장비) 등이 있습니다.
 
 허브는 주소의 개념이 없으므로 전기 신호가 들어온 포트를 제외하고 모든 포트에 같은 전기 신호를 전송
 
@@ -149,4 +149,3 @@ TCP 443 - HTTPS
 - Dynamic/Private Ports(49152~65535)
 
 클라이언트가 서버에 접속할 때 임시로 할당받는 포트
-
