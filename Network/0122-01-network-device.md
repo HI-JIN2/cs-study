@@ -1,6 +1,4 @@
-# Network
-
-## 1. Network Device
+# Network Device
 
 ### 1) LoadBalancer
 
