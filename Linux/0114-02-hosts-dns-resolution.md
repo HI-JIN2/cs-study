@@ -186,8 +186,6 @@ ip: IP 패킷만 덤프
 
 ```bash
 network:
-```
-
   version: 2
   renderer: networkd
   ethernets:
@@ -197,6 +195,7 @@ network:
       gateway4: 10.0.2.1
       nameservers:
         addresses: [8.8.8.8, 1.1.1.1]
+```
 
 - 적용: sudo netplan apply
 
